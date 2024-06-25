@@ -1,6 +1,6 @@
 # AIM-game-javascript
 
-You can view this project on the following link: https://akmalov11c-aim-game.netlify.app/
+You can view this project on the following link: https://akmalov11c.github.io/AIM-game-javascript/
 
 Project guide:
   1. Before starting the game, you need to choose the game time.
